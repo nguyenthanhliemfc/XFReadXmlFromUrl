@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>D:\Desktop\icon.png</Source>
+    <SmallTileSource>D:\Desktop\icon.png</SmallTileSource>
+    <MediumTileSource>D:\Desktop\icon.png</MediumTileSource>
+    <WideTileSource>D:\Desktop\icon.png</WideTileSource>
+    <LargeTileSource>D:\Desktop\icon.png</LargeTileSource>
+    <AppIconSource>D:\Desktop\icon.png</AppIconSource>
+    <SplashScreenSource>D:\Desktop\icon.png</SplashScreenSource>
+    <PackageLogoSource>D:\Desktop\icon.png</PackageLogoSource>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

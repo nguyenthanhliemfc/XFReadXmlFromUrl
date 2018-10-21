@@ -1,0 +1,1 @@
+MainPackage=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\x86\Release\Upload\CurrencyVietCbank.UWP_1.1.0.0_x86.appx

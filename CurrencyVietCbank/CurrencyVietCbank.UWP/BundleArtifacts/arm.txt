@@ -1,0 +1,6 @@
+MainPackage=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\ARM\Release\CurrencyVietCbank.UWP_1.1.0.0_ARM.appx
+SymbolPackage=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\AppPackages\CurrencyVietCbank.UWP_1.1.0.0_Test\CurrencyVietCbank.UWP_1.1.0.0_ARM.appxsym
+ResourcePack=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\ARM\Release\CurrencyVietCbank.UWP_1.1.0.0_scale-100.appx
+ResourcePack=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\ARM\Release\CurrencyVietCbank.UWP_1.1.0.0_scale-125.appx
+ResourcePack=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\ARM\Release\CurrencyVietCbank.UWP_1.1.0.0_scale-150.appx
+ResourcePack=C:\1Project\XamarinForms\CurrencyVietCbank\CurrencyVietCbank\CurrencyVietCbank.UWP\bin\ARM\Release\CurrencyVietCbank.UWP_1.1.0.0_scale-400.appx
